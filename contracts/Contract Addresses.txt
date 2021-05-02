@@ -1,0 +1,2 @@
+Lottery Contract: 0x43e9a518643eC7D093A6178Aa9B14b995cF860f8
+Randomness Contract: 0x90ed668d178a6c79bc1622721D5f819e1eEeb2a8

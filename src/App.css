@@ -36,3 +36,107 @@
     transform: rotate(360deg);
   }
 }
+
+#form {
+  padding: 5px;
+  width: 330px;
+  height: 180px;
+  background: white;
+  margin: 4%;
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 3px 3px 10px 6px #ccc;
+}
+
+#inputField {
+  border: none;
+  border-bottom: 2px solid grey;
+  width: 130px;
+  margin-top: 25px;
+}
+
+table {
+  background: white;
+  border-radius: 0.25em;
+  border-collapse: collapse;
+  width: 300px;
+  margin-top: 35px;
+  margin-left: 4%;
+  box-shadow: 3px 3px 10px 6px #ccc;
+  margin-bottom: 50px;
+}
+td {
+  padding: 0.65em 1em;
+  border: 2px solid ccc;
+  border-left: 2px solid #ccc;
+}
+tbody tr {
+  transition: background 0.25s ease;
+  border-bottom: 2px solid #ccc;
+}
+
+.headingDiv {
+  line-height: 1px;
+  text-align: center;
+  background-color: bisque;
+  height: 4.5cm;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+}
+
+#mainHeading {
+  margin-bottom: 30px;
+  margin-top: 75px;
+  font-size: 38px;
+  white-space: nowrap;
+}
+
+#subHeading {
+  margin-bottom: 55px;
+  font-size: 18px;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  padding-top: 10px;
+  width: 100%;
+  -webkit-box-shadow: 0px -4px 3px #ccc;
+  -moz-box-shadow: 0px -4px 3px #ccc;
+  box-shadow: 0px -4px 3px #ccc;
+}
+
+#winner {
+  font-style: italic;
+  box-shadow: 0 4px 2px -2px gray;
+  width: 300px;
+  margin: auto;
+  margin-top: 180px;
+}
+
+#warning {
+  color: red;
+  font-size: 30px;
+}
+
+#send {
+  font-size: 22px;
+  margin: auto;
+}
+
+#minimum {
+  margin: auto;
+  font-size: 15px;
+}
+
+button {
+  height: 2.3em;
+  border: 1px solid;
+  margin-top: 25px;
+  width: 25%;
+  cursor: pointer;
+}
