@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lottery Dapp
 
 * [Lottery Dapp](http://lottery-dapp.surge.sh/) is a decentralized application, built over Ethereum blockchain. The frontend of the lottery dapp is built using React.
